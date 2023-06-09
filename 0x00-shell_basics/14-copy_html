@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u ../parent_directory/*.html .
+cp -u *.html ..
